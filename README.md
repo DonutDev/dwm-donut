@@ -4,8 +4,7 @@ You can get my setup in here
 
 # Extremely Important Dependencies
 Everything you need to build DWM!
+slstatus 
 
 # My Dependencies
 uwuTerm as terminal (can be changed)
-slstatus (suckless tool for showing ram and time on screen)
-
