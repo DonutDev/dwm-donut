@@ -6,4 +6,4 @@ You can get my setup in here
 Everything you need to build DWM!
 
 # My Dependencies
-uwuTerm as terminal (can be changed)                                                                                                                                SlStatus (ram and stuff)
+uwuTerm, slstatus
